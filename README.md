@@ -1,5 +1,6 @@
 # aws-storage-services.
 ## AWS CLI COMMAND TO MANAGE S3 BUCKET AND OBJECTS
+### HTML file collected from Patricia ADA
 
 C:\Users\Ojarotade>aws s3 mb s3://myaccurate-bucket
 make_bucket: myaccurate-bucket
